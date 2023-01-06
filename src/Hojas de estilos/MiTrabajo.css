@@ -1,0 +1,16 @@
+.Grid_Contenedor{
+    margin-top: 80px;
+}
+.card{
+    max-width: 245px;
+    min-height: 175px;
+    margin: 5px;
+}
+.caratula{
+width: 245px;
+height: 175px;
+
+}
+.Link_Card{
+    list-style: none;
+}

@@ -1,0 +1,23 @@
+.Section{
+    min-height: 100vh;
+    display: flex;  
+    justify-content: center; 
+}
+
+.sectionDark{
+    background: #333;
+    color: #fff;
+    
+}
+
+.titleDark{
+    margin-top: 20px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #555;
+    
+}
+.Logo{
+    width: 45px;
+
+}

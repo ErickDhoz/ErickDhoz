@@ -1,0 +1,90 @@
+.navBar{   
+   background-color: #fafafa;
+   z-index: 999;
+  
+}
+.Toolbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fafafa;
+    color: #333;
+    font-size: 1.4rem;
+    font-weight: bold;      
+}
+
+.Link{
+    color:#333;
+    font-size: 1.4rem;
+    margin-left: 20px;
+    cursor: pointer;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.Link:hover{
+    background-color: #333;
+    color: #fafafa;
+    transition: 50ms;
+    border-bottom: 3px solid #fafafa;
+    
+}
+
+@media (max-width:800px){
+    .Link{
+        display: none;        
+    }    
+}
+
+
+.logo{     
+    width: 40px;  
+    height: 1,5rem;   
+    object-fit: contain; 
+    cursor: pointer;
+}
+
+.BotonIcon{
+    color: #333;
+}
+.CancelIcon{
+    color: red;
+      
+}
+.IconButton{    
+    justify-content: start;
+}
+
+.MenuVertical{
+    background-color: #fafafa;
+    color: #333;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    cursor: pointer;
+}
+.ListenIcon{
+    color: #222;
+    justify-items: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: large;    
+}
+
+.MenuVertical:hover{
+    background-color: #555;
+    color: #fafafa;
+    transition: 50ms;      
+    
+}
+
+@media (min-width:800px){
+    #BL{
+        display: none;
+    } 
+}
+
+
+
+
