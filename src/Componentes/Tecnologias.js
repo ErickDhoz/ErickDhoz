@@ -1,10 +1,5 @@
 import { Timeline, TimelineConnector, TimelineContent, TimelineItem, TimelineOppositeContent, TimelineSeparator } from '@mui/lab';
 import { Typography, Paper } from '@mui/material';
-import HTML from '../imagenes/HTML.png';
-import CSS from '../imagenes/CSS.png';
-import JS from '../imagenes/JS.png';
-import React from '../imagenes/React.png';
-import Sass from '../imagenes/Sass.png'
 import '../Hojas de estilos/Tecnologias.css';
 import Estrellas from './Estrellas';
 
@@ -14,33 +9,33 @@ function Tecnologias(){
     const skills=[
         {
             año:"Experto",
-            src: HTML,
+            src: '/imagenes/HTML.png',
             title: "HTML ",
             estrellas: 4,
         },
         {
             año:"Experto",
-            src: CSS,
+            src: '/imagenes/CSS.png',
             title: "CSS",
             estrellas: 4,
         },
         {
             año:"Experto",
-            src: JS,
+            src: '/imagenes/JS.png',
             title: "JavaScript",
             estrellas: 4,
         },
         {
             año:"Experto",
-            src: React,
+            src: '/imagenes/React.png',
             title: "React",
-            estrellas: 5,
+            estrellas: 4,
         },
         {
             año:"Principiante",
-            src: Sass,
+            src: '/imagenes/Sass.png',
             title: "Sass",
-            estrellas: 3.5,
+            estrellas: 3,
         },
     ]
 

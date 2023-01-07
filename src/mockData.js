@@ -1,45 +1,39 @@
-import MiBlog from './imagenes/MiBlog.png';
-import ContadorClick from './imagenes/Contador de cliks.png';
-import caculadoraJS from './imagenes/CalcuadoraJS.png';
-import ListaDeTareas from './imagenes/ListaDeTareas.png';
-import Gif from './imagenes/Gif.png';
-import PaginaSass from './imagenes/PaginaSass.png';
 
 
 const mockData=[
     {
         title:"Mi Blog",
-        image:MiBlog,
+        image:'/imagenes/MiBlog.png',
         link: "https://altaguajira.netlify.app/",
 
     },
     {
         title:"Contador de click",
-        image:ContadorClick,
+        image:'/imagenes/Contador de cliks.png',
         link: "https://contadordeclics.netlify.app/",
 
     },
     {
         title:"Calculadora Js",
-        image:caculadoraJS,
+        image:'/imagenes/CalcuadoraJS.png',
         link: "https://calculadoramathjs.netlify.app/",
 
     },
     {
         title:"Lista de Tareas",
-        image:ListaDeTareas,
+        image:'/imagenes/ListaDeTareas.png',
         link: "https://listadetareas-js.netlify.app/",
 
     },
     {
         title:"Buscador de Gifs",
-        image:Gif,
+        image:'/imagenes/Gif.png',
         link: "https://erickdhoz.github.io/Gif-App/",
 
     },
     {
         title:"Pagina Con `Sass`",
-        image:PaginaSass,
+        image:'/imagenes/PaginaSass.png',
         link: "https://erickdhoz.github.io/sasssiteexample/",
 
     },

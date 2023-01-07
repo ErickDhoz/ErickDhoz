@@ -1,9 +1,8 @@
 import React from "react";
 import { Button, Card, CardActions, CardContent, CardMedia, Typography } from "@mui/material";
 import '../Hojas de estilos/SobreMi.css';
-import developer from '../imagenes/developer.jpg';
 import TypewriterEffect from 'react-typewriter-effect'
-import HV from '../imagenes/HV.pdf';
+
 
 
 function SobreMi({title, id, dark}){
@@ -15,7 +14,7 @@ function SobreMi({title, id, dark}){
             </Typography>
             <Card className="Card">
                 <CardMedia className="CardMedia"
-                image={developer}
+                image='/imagenes/developer.jpg'
                 title="foto"/>
 
                  
@@ -40,7 +39,7 @@ function SobreMi({title, id, dark}){
                     manejo HTML, CSS, JavaScript, React, y reactDOM.
                   </Typography>
                   <Button variant="contained" className="botonHV">
-                    <a href={HV} className="a_link">Hoja de Vida</a>
+                    <a href='/imagenes/HV.pdf' className="a_link">Hoja de Vida</a>
                     </Button>
                                   
                 </CardContent>     

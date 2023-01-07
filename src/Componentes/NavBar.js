@@ -1,6 +1,5 @@
 import { AppBar, Divider, Drawer, IconButton, List, ListItem, ListItemIcon, Toolbar } from "@mui/material";
 import React, { useState } from "react";
-import logo from '../imagenes/Logo.png';
 import '../Hojas de estilos/NavBar.css';
 import {Link, animateScroll as scroll} from 'react-scroll';
 import InfoIcon from '@mui/icons-material/Info';
@@ -41,7 +40,7 @@ const links=[
         <>
         <AppBar className="navBar">
            <Toolbar className="Toolbar">
-            <img src={logo} className='logo' alt="Logo"/>
+            <img src='/imagenes/Logo.png' className='logo' alt="Logo"/>
             
             <List className="Menu">
                 { 
