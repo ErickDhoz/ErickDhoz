@@ -3,37 +3,37 @@
 const mockData=[
     {
         title:"Mi Blog",
-        image:'/imagenes/MiBlog.png',
-        link: "https://altaguajira.netlify.app/",
+        image:'https://erickdhoz.github.io/ErickDhoz/imagenes/MiBlog.png',
+        link: "https://altaguajira.netlify.app/", 
 
     },
     {
         title:"Contador de click",
-        image:'/imagenes/Contador de cliks.png',
+        image:'https://erickdhoz.github.io/ErickDhoz/imagenes/Contador de cliks.png',
         link: "https://contadordeclics.netlify.app/",
 
     },
     {
         title:"Calculadora Js",
-        image:'/imagenes/CalcuadoraJS.png',
+        image:'https://erickdhoz.github.io/ErickDhoz/imagenes/CalcuadoraJS.png',
         link: "https://calculadoramathjs.netlify.app/",
 
     },
     {
         title:"Lista de Tareas",
-        image:'/imagenes/ListaDeTareas.png',
+        image:'https://erickdhoz.github.io/ErickDhoz/imagenes/ListaDeTareas.png',
         link: "https://listadetareas-js.netlify.app/",
 
     },
     {
         title:"Buscador de Gifs",
-        image:'/imagenes/Gif.png',
+        image:'https://erickdhoz.github.io/ErickDhoz/imagenes/Gif.png',
         link: "https://erickdhoz.github.io/Gif-App/",
 
     },
     {
         title:"Pagina Con `Sass`",
-        image:'/imagenes/PaginaSass.png',
+        image:'https://erickdhoz.github.io/ErickDhoz/imagenes/PaginaSass.png',
         link: "https://erickdhoz.github.io/sasssiteexample/",
 
     },

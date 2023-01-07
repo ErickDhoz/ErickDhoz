@@ -40,7 +40,7 @@ const links=[
         <>
         <AppBar className="navBar">
            <Toolbar className="Toolbar">
-            <img src='/imagenes/Logo.png' className='logo' alt="Logo"/>
+            <img src='https://erickdhoz.github.io/ErickDhoz/imagenes/Logo.png' className='logo' alt="Logo"/>
             
             <List className="Menu">
                 { 
