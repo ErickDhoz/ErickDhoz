@@ -9,31 +9,31 @@ function Tecnologias(){
     const skills=[
         {
             año:"Experto",
-            src: '/imagenes/HTML.png',
+            src: 'https://erickdhoz.github.io/ErickDhoz/imagenes/HTML.png',
             title: "HTML ",
             estrellas: 4,
         },
         {
             año:"Experto",
-            src: '/imagenes/CSS.png',
+            src: 'https://erickdhoz.github.io/ErickDhoz/imagenes/CSS.png',
             title: "CSS",
             estrellas: 4,
         },
         {
             año:"Experto",
-            src: '/imagenes/JS.png',
+            src: 'https://erickdhoz.github.io/ErickDhoz/imagenes/JS.png',
             title: "JavaScript",
             estrellas: 4,
         },
         {
             año:"Experto",
-            src: '/imagenes/React.png',
+            src: 'https://erickdhoz.github.io/ErickDhoz/imagenes/React.png',
             title: "React",
             estrellas: 4,
         },
         {
             año:"Principiante",
-            src: '/imagenes/Sass.png',
+            src: 'https://erickdhoz.github.io/ErickDhoz/imagenes/Sass.png',
             title: "Sass",
             estrellas: 3,
         },
