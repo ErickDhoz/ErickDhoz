@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0117e59f.css",
+    "main.js": "/static/js/main.78fa4da6.js",
+    "static/media/developer.jpg": "/static/media/developer.4ec7218e1f00bce2409b.jpg",
+    "static/media/PaginaSass.png": "/static/media/PaginaSass.b0271038326f04643acc.png",
+    "static/media/HV.pdf": "/static/media/HV.8edeb15c7d596979300f.pdf",
+    "static/media/Gif.png": "/static/media/Gif.46fe3af819f86a62de4c.png",
+    "static/media/MiBlog.png": "/static/media/MiBlog.83bd556564c22eb4bf32.png",
+    "static/media/React.png": "/static/media/React.8a6fc0a24a800d1e0f4a.png",
+    "static/media/CSS.png": "/static/media/CSS.0c2690a25c4bec03822a.png",
+    "static/media/CalcuadoraJS.png": "/static/media/CalcuadoraJS.f7f4eab0d71270eb30b0.png",
+    "static/media/Sass.png": "/static/media/Sass.c5da83bb9ff45b84e0e7.png",
+    "static/media/Contador de cliks.png": "/static/media/Contador de cliks.d125bf661c66279eac97.png",
+    "static/media/ListaDeTareas.png": "/static/media/ListaDeTareas.687ec163d7ac2c7635e6.png",
+    "static/media/HTML.png": "/static/media/HTML.cfb2ba4a6b1c3de295bc.png",
+    "static/media/Logo.png": "/static/media/Logo.6a30527724b478ce268f.png",
+    "index.html": "/index.html",
+    "main.0117e59f.css.map": "/static/css/main.0117e59f.css.map",
+    "main.78fa4da6.js.map": "/static/js/main.78fa4da6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0117e59f.css",
+    "static/js/main.78fa4da6.js"
+  ]
+}
