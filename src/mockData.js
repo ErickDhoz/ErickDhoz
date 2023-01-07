@@ -1,10 +1,9 @@
-import MiBlog from './imagenes/MiBlog.PNG';
-import ejemplo from './imagenes/ejemplo.jpg';
-import ContadorClick from './imagenes/Contador de cliks.PNG';
-import caculadoraJS from './imagenes/CalcuadoraJS.PNG';
-import ListaDeTareas from './imagenes/ListaDeTareas.PNG';
-import Gif from './imagenes/Gif.PNG'
-import PaginaSass from './imagenes/PaginaSass.PNG'
+import MiBlog from './imagenes/MiBlog.png';
+import ContadorClick from './imagenes/Contador de cliks.png';
+import caculadoraJS from './imagenes/CalcuadoraJS.png';
+import ListaDeTareas from './imagenes/ListaDeTareas.png';
+import Gif from './imagenes/Gif.png';
+import PaginaSass from './imagenes/PaginaSass.png';
 
 
 const mockData=[
