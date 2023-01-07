@@ -14,7 +14,7 @@ function SobreMi({title, id, dark}){
             </Typography>
             <Card className="Card">
                 <CardMedia className="CardMedia"
-                image='/imagenes/developer.jpg'
+                image='https://erickdhoz.github.io/ErickDhoz/imagenes/developer.jpg'
                 title="foto"/>
 
                  
