@@ -39,7 +39,7 @@ function SobreMi({title, id, dark}){
                     manejo HTML, CSS, JavaScript, React, y reactDOM.
                   </Typography>
                   <Button variant="contained" className="botonHV">
-                    <a href='/imagenes/HV.pdf' className="a_link">Hoja de Vida</a>
+                    <a href='https://erickdhoz.github.io/ErickDhoz/imagenes/HV.pdf' className="a_link">Hoja de Vida</a>
                     </Button>
                                   
                 </CardContent>     
