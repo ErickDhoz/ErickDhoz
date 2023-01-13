@@ -1,5 +1,5 @@
 # Electronic Engineer
-# Front end programmer
-  -HTML-CSS- JavaScript
+# Front end programmer-Junior
+  -HTML, CSS, JavaScript.
   -React.
 
